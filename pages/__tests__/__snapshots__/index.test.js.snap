@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should matches snapshot 1`] = `
+<h1
+  className="bg-black text-white text-lg"
+  data-testid="test-1"
+>
+  Hola mundo a mi canal
+</h1>
+`;
